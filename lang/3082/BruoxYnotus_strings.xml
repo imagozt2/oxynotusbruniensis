@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <BruoxYnotus>Cerdo marino espinoso</BruoxYnotus>
+      <BruoxYnotus_stt>Cerdo marino espinoso</BruoxYnotus_stt>
+      <BruoxYnotus_lower>El Cerdo marino espinoso</BruoxYnotus_lower>
+      <BruoxYnotus_ltt>
+         <color r="255" g="248" b="178">
+            <b>BruoxYnotus</b>
+         </color>
+         <br/>
+         Click para adoptar un cerdo marino espinoso, uno tiburon poco habitual.
+      </BruoxYnotus_ltt>
+      <!--gift names-->
+      <BruoxYnotus_Gift>Mochila de cerdo marino espinoso</BruoxYnotus_Gift>
+      <BruoxYnotus_Gift_stt>Mochila de cerdo marino espinoso</BruoxYnotus_Gift_stt>
+      <BruoxYnotus_Gift_lower>La Mochila de cerdo marino espinoso</BruoxYnotus_Gift_lower>
+      <BruoxYnotus_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de cerdo marino espinoso</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al cerdo marino espinoso.
+      </BruoxYnotus_Gift_ltt>
+</entityname>
+<zoopedia_bruoxynotus>
+ <entry>Cerdo marino espinoso</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/BruoxYnotus/BruoxYnotus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Datos insuficientes
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Bentico<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sur-este del Pacifico<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Chondrichthyes)</i><br/>Orden: Squaliformes <br/>Familia: Oxynotidae <br/>Genero: <i>Oxynotus</i><br/>Especie: <i>O. Bruniensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Cerdo marino espinoso</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es la especie del genero Oxynotus que ha llegado a mas profundidad: 1047 m.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Su longitud maxima ha sido 91 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Es un pez muy poco habitual.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Cerdo marino espinoso necesitas 4 estrella de fama en tu zoo. 
+   </color>
+   <p/>El cuerpo es grueso, alto y comprimido lateralmente hasta adquirir una característica sección triangular. Dos carenas abdominales y una interdorsal, es decir, una en cada vértice del triángulo, lo recorren longitudinalmente. La piel es áspera y rugosa por estar recubierta de fortísimos dentículos dérmicos, particularmente en el cerdo marino espinoso (Oxynotus bruniensis). Los oxynótidos presentan dos enormes aletas dorsales en forma de vela y atravesadas por una potente espina. Como todos los Squaliformes, carecen de aleta anal. Sus pectorales son cortas y la caudal es ancha con el lóbulo ventral poco diferenciado y el terminal moderadamente marcado. Por lo que respecta al tamaño, se trata de tiburones pequeños que no suelen rebasar el metro de largo. La longitud total máxima registrada corresponde a un ejemplar de tiburón cerdo (Oxynotus centrina) de 150 cm y a otro de cerdo velero (Oxynotus paradoxus) de 118 cm. La especie más pequeña parece ser el cerdo marino antillano, con una LT máxima de 49 cm en un macho adulto. El conocimiento que tenemos sobre la biología y comportamiento de estos tiburones es escaso al tratarse de especies poco comunes. En su mayor parte se basa en el examen de ejemplares capturados ocasionalmente y de forma dispersa, así como en su observación en acuarios (en acuarios de grandes dimensiones y con las condiciones adecuadas, el O. centrina tiene una esperanza de vida de varios meses), y alguna que otra imagen tomada en su entorno natural. Sabemos que son de hábitos bentónicos en aguas templadas, tropicales y frías (según la especie), en general en fondos entre 300-700 m (a menor temperatura del agua, menor profundidad). El O. bruniensis es quien ostenta el récord, 1047 m.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">blogueiros.axena.org</color>Imago
+  </cell>
+ </text>
+</zoopedia_bruoxynotus>
+</ZT2Strings>

@@ -1,0 +1,36 @@
+<BFTypedBinder binderType="BruoxYnotus_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Lamniformes>
+                     <Mitsukurinidae>
+                        <BruoxYnotus>
+                           <BruoxYnotus_Young>
+                              <BruoxYnotus_Young_F/>
+                           </BruoxYnotus_Young>
+                        </BruoxYnotus>
+                     </Mitsukurinidae>
+                  </Lamniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\BruoxYnotus\BruoxYnotus_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="BruoxYnotus_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>

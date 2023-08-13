@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <BruoxYnotus>Prickly dogfish</BruoxYnotus>
+      <BruoxYnotus_stt>Prickly dogfish</BruoxYnotus_stt>
+      <BruoxYnotus_lower>The Prickly dogfish</BruoxYnotus_lower>
+      <BruoxYnotus_ltt>
+         <color r="255" g="248" b="178">
+            <b>Prickly dogfish</b>
+         </color>
+         <br/>
+         Click to select the Prickly dogfish.
+      </BruoxYnotus_ltt>
+      <!--gift names-->
+      <BruoxYnotus_Gift>Prickly dogfish gift</BruoxYnotus_Gift>
+      <BruoxYnotus_Gift_stt>Prickly dogfish gift</BruoxYnotus_Gift_stt>
+      <BruoxYnotus_Gift_lower>The Prickly dogfish gift</BruoxYnotus_Gift_lower>
+      <BruoxYnotus_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Prickly dogfish gift</b>
+         </color>
+         <br/>People buy the Prickly dogfish gift.
+      </BruoxYnotus_Gift_ltt>
+</entityname>
+<zoopedia_bruoxynotus>
+ <entry>Prickly dogfish</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/BruoxYnotus/BruoxYnotus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Benthic<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Southwest Pacific<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Chondrichthyes)</i><br/>Order: Squaliformes <br/>Family: Oxynotidae <br/>Gender: <i>Oxynotus</i><br/>Species: <i>O. Bruniensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Prickly dogfish facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Marine; bathydemersal; depth range 45 - 1070 m.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Max length : 91.0 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Resilience is very Low, minimum population doubling time more than 14 years.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    You need 4 stars to adopt the Prickly dogfish. 
+   </color>
+   <p/>The prickly dogfish (Oxynotus bruniensis) is a poorly known species of dogfish shark in the family Oxynotidae, inhabiting temperate Australian and New Zealand waters. Reaching a length of 75 cm (30 in), this brown to gray shark has a very thick body with a prominent "humpback" and extremely rough skin. It is further characterized by two enormous, sail-like dorsal fins placed relatively close together. Both dorsal fins have a spine embedded mostly within the fleshy leading portion of the fin; the first dorsal spine is tilted forward. Found near the sea floor over outer continental and insular shelves and upper slopes, the prickly dogfish is thought to be a slow-moving predator of small benthic organisms. It is aplacental viviparous, with females giving birth to litters of around seven pups. This species is an uncommon bycatch of bottom trawls, though there is presently insufficient information for the International Union for Conservation of Nature (IUCN) to assess its conservation status. Australian ichthyologist James Douglas Ogilby originally described the prickly dogfish from a desiccated specimen discovered on a beach on Bruny Island off southeastern Tasmania, Australia. He published his account in an 1893 issue of the scientific journal Records of the Australian Museum and, at the behest of Tasmanian Museum Curator Alex Morton, named it Centrina bruniensis after the type locality. Subsequent authors have synonymized the genus Centrina with Oxynotus. An uncommon resident of temperate waters, the prickly dogfish occurs off Australia from Crowdy Head in New South Wales, around the southern coast of Tasmania, to as far as Esperance in Western Australia. It also occurs off New Zealand and adjacent islands, and over the submarine Chatham Rise, Challenger Plateau, and Campbell Plateau. This species is found close to the bottom over outer continental and insular shelves and upper slopes. It has been reported from a depth range of 45 to 1,067 m (148 to 3,501 ft), but is typically found between 350 and 650 m (1,150 and 2,130 ft) down. With a very stout body and a highly arched back, the prickly dogfish has an unmistakable profile. Its head is slightly flattened, with a short rounded snout. The nostrils are large and closely spaced. The eyes are immediately followed by small round spiracles. The mouth is relatively small and transverse, and almost surrounded by deep furrows coming from the mouth corners. The lips are thick and bear papillae (nipple-like structures). There are 12–19 upper and 11–13 lower tooth rows.  The upper teeth are small with narrow upright cusps, while the lower teeth are large with broad knife-like triangular cusps. There are five pairs of gill slits. The body is roughly triangular in cross-section. The two dorsal fins are very tall with triangular, sail-like apexes; the anterior portion of each fin is fleshy, in which is embedded a spine with only the tip exposed. The first dorsal fin spine is tilted forward. The origin of the first dorsal fin lies over the gill slits, ahead of the pectoral fins. The second dorsal fin is smaller than the first, and the distance between it and the first dorsal fin is less than the length of its base. There are a pair of thick ridges running along the abdomen between the pectoral and pelvic fins, which are smaller than the second dorsal fin. There is no anal fin. The caudal fin is broad and high, with a ventral notch near the tip of the upper lobe. The skin is extremely rough due to a covering of large dermal denticles with narrow, knife-like crowns. The coloration is plain brown to gray, becoming translucent at the trailing margins of the pectoral and pelvic fins. This species grows to at least 75 cm (30 in) long, and may reach 91 cm (36 in). The unusual shape and sizable, oily liver of the prickly dogfish suggests that it is a slow swimmer that can hover over the sea floor with minimal effort. It probably hunts for small, bottom-dwelling invertebrates and fishes, perhaps facilitated by its large nostrils and labial papillae. This species is aplacental viviparous; females have been recorded containing 7–8 mature eggs in their ovaries, and one was gestating 7 embryos. Newborns measure approximately 24 cm (9.4 in) long. Males and females attain sexual maturity at approximately 55–60 cm (22–24 in) and ≤67 cm (26 in) long respectively. A known parasite of the prickly dogfish is the monogenean Asthenocotyle taranakiensis. The prickly dogfish is occasionally caught incidentally by bottom trawlers, and probably discarded.[3] There is some indication that the numbers bycaught have declined from historical levels, but at present the International Union for Conservation of Nature (IUCN) lacks sufficient data to assess this species beyond Data Deficient..
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="255" g="231" b="135">Wikipedia</color>Imago
+  </cell>
+ </text>
+</zoopedia_bruoxynotus>
+</ZT2Strings>
